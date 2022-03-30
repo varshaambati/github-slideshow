@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"float like a butterfly, string like a bee"--varsha ambati
+"Float like a butterfly, string like a bee"-varsha ambati
 Use the left arrow to go back!
